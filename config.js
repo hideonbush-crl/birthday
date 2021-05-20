@@ -5,8 +5,10 @@ var config = {
     texts: [
         "岁岁有今日",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "年年有今朝",  // 同上...
-        "又是一年生日会",
-        "祝愿考古带师生日快乐！", 
+        "祝愿gpa777!",
+        "You glow, birthday girl!",
+        "祝愿考古带师生日快乐！！！", 
+        "Enjoy your day!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -29,7 +31,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FROM STEVEN",
+        wish_message: "点慢点。。",
+        story: "A MESSAGE FROM STEVEN！！！！！！！",
     }
 };
